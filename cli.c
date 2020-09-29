@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
       printf("Self testing...\n");
       break;
     default:
-      printf("SEMC CLI");
+      printf("SEMC CLI\n");
   }
   return 0;
 }
